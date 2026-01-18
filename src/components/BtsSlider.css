@@ -159,7 +159,7 @@ h1 {
 
   /* tampilan awal: balok kecil berjajar */
   .slider-img {
-    flex: 0 0 18%;                /* 4–5 balok per baris */
+    flex: 0 0 12%;                /* 4–5 balok per baris */
     height: 110px;
     transition:
       flex 0.55s ease,
@@ -200,7 +200,7 @@ h1 {
 
   .details {
     bottom: 16px;
-    left: 16px;
+    left: 50px;
   }
 
   .details h2 {
